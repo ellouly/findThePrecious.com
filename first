@@ -1,89 +1,130 @@
 <!DOCTYPE html>
 <html lang="en-GB">
+
   <head>
     <meta charset="utf-8">
     <title>findThePrecious.com</title>
   </head>
+  
   <body>
+  
     <header>
+    
       <h1>findThePrecious.com</h1>
+      
         <nav>
+        
           <ul>
-            <li><a href="Fellows">Fellows</a></li>
-            <li><a href="Contact">Contact Us</a></li>
+            <li><a href="#fellows">Fellows</a></li>
+            <li><a href="#contact">Contact Us</a></li>
           </ul>
+          
         </nav>
+        
     </header>
+    
     <main>
+    
       <section>
+      
         <a href="https://placeholder.com"><img src="https://via.placeholder.com/468x60?text=468x60+Full+Banner" alt="Dangerous"></a>
         <h2>Dangerous fellowship try to destroy the ring</h2>
         <p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
+        
       </section>
+      
       <section>
-        <h2 id="Fellows">Fellows wanted dead (our alive if you want to eat them later)</h2>    
+      
+        <h2 id="fellows">Fellows wanted dead (our alive if you want to eat them later)</h2>    
+        
         <ul>
+        
           <li>
             <h3>The Wizzard</h3>
               <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140" alt="Wizzard"></a>
               <p>Reward 1000 gold coins</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
          </li>
+         
          <li>
             <h3>Hobbit #3</h3>
               <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140" alt="Hobbit"></a>
               <p>DEAD</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
          </li>
+         
          <li>
             <h3>Yummy Dwarf</h3>
               <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140" alt="Yummy"></a>
               <p>Reward 250 gold coins</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
          </li>
+         
       </ul>
+      
     </section>
+    
         <hr>
+        
       <section>
+      
         <h2>Contact Us</h2>
+        
          <form>
+         
           <fieldset>
+          
             <div>
               <input type="text" name="Email">
             </div>
+            
             <div>
               <input type="text" name="Adress">
             </div>
+            
             <div>
               <select id="name">
               <option value="">I have seen one of them</option>
               </select>
            </div>
+           
             <div>
               <textarea>Your message</textarea>
             </div>
+            
             <div>
               <input type="submit" value="Send !">
             </div>
+            
          </fieldset>
+         
         </form>
+        
       </section>
+      
     </main>
+    
     <footer>
+    
       <ul>
-        <li><a href="About">About us</a></li>
-          <li><a href="Fellows">Fellows</a></li>
-          <li><a href="Join">Join our army</a></li>
+        <li><a href="#about">About us</a></li>
+          <li><a href="#fellows">Fellows</a></li>
+          <li><a href="#join">Join our army</a></li>
       </ul>
+      
       <ul>
-          <li><a href="FAQ">FAQ</a></li>
-          <li><a href="Reward">Reward conditions</a></li>
-          <li><a href="Legal">Legal mentions</a></li>
+          <li><a href="#FAQ">FAQ</a></li>
+          <li><a href=#reward">Reward conditions</a></li>
+          <li><a href=#legal">Legal mentions</a></li>
       </ul>
+      
       <ul>
           <li><a href="https://en.wikipedia.org/wiki/Sauron">Sauron4Ever.com</a></li>
           <li><a href="https://twitter.com/hashtag/sauronforever">Follow him also on Twitter</a></li>
       </ul>
+      
     </footer>
+    
   </body>
+  
 </html>
