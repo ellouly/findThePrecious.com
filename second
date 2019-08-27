@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="en-GB">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="E.George">
+    <meta name="description" content="Official website for fintThe Precious with game information, developers diaries, frequently asked questions">
+    <title>findThePrecious.com</title>
+  </head>
+  
+  <body>
+  
+    <header>
+    
+      <h1>findThePrecious.com</h1>
+      
+        <nav>
+        
+          <ul>
+            <li><a href="#Fellows" title="What about the Fellows">Fellows</a></li>
+            <li><a href="#Contact" title="Questions and suggestions are welcome">Contact Us</a></li>
+          </ul>
+          
+        </nav>
+        
+    </header>
+    
+    <main>
+    
+      <section>
+        <a href="https://placeholder.com"><img src="https://via.placeholder.com/468x60?text=468x60+Full+Banner" alt="Dangerous"></a>
+        <h2>Dangerous fellowship try to destroy the ring</h2>
+        <p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
+      </section>
+      
+      <section>
+      
+        <h2 id="Fellows">Fellows wanted dead (our alive if you want to eat them later)</h2>    
+        
+        <ul>
+        
+          <li>
+            <h3>The Wizzard</h3>
+              <a href="https://images.unsplash.com/photo-1515599985634-73dc308d766f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60">
+          <img src="https://images.unsplash.com/photo-1515599985634-73dc308d766f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Wizzard, reward 1000 gold coins !" width="140" height="140"></a>             
+              <p>Reward 1000 gold coins</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         </li>
+         
+         <li>
+            <h3>Hobbit #3</h3>
+           <a href="https://images.unsplash.com/photo-1566013656433-e818796d04f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"><img src="https://images.unsplash.com/photo-1566013656433-e818796d04f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Hobbit, small size, abundant hair growth on their feet, slightly pointed ears and ruby face" width="140" height="140"></a>
+              <p>DEAD</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         </li>
+         
+         <li>
+            <h3>Yummy Dwarf</h3>
+              <a href="https://images.unsplash.com/photo-1557857305-729b91703bfb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"><img src="https://images.unsplash.com/photo-1557857305-729b91703bfb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="Yummy Dwarf, reward 250 gold coins" width="140" height="140" ></a>
+              <p>Reward 250 gold coins</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         </li>
+         
+      </ul>
+      
+    </section>
+    
+        <hr>
+        
+      <section>
+      
+        <h2 id="Contact">Contact Us</h2>
+        
+         <form action="/my-form-page" method="post">
+          <fieldset>
+          
+            <div>
+              <label for="Email">Email</label>
+              <input type="text" name="Email" id="Email">
+            </div>
+            
+            <div>
+              <label for="Address">Address</label>
+              <input type="text" name="Address" id="Address">
+            </div>
+            
+            <div>           
+              <select id="name">
+              <option value="">I have seen one of them</option>
+              <option value="">Wizzard</option>
+              <option value="">Hobbit</option>
+              <option value="">Yummy Dwarf</option>
+              </select>
+           </div>
+           
+            <div>              
+              <textarea id="msg" name="user_message">Your message</textarea>
+            </div>
+            
+            <div class="button">
+        <button type="submit">Send !</button>
+    </div>
+    
+         </fieldset>
+         
+        </form>
+        
+      </section>
+      
+    </main>
+    
+    <footer>
+    
+      <ul>
+        <li><a href="About" title="Everything you want to know about findThePrecious">About us</a></li>
+          <li><a href="Fellows" title="The different fellows you will find on the website">Fellows</a></li>
+          <li><a href="Join" title="Be a special member">Join our army</a></li>
+      </ul>
+      
+      <ul>
+          <li><a href="FAQ" title="Frequently Asked Questions">FAQ</a></li>
+          <li><a href="Reward" title="How to get your rewards">Reward conditions</a></li>
+          <li><a href="Legal" title="Help to ensure transparency and provides you with concrete information about our company.">Legal mentions</a></li>
+      </ul>
+      
+      <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Sauron" target="_blank" title="Sauron official Website">Sauron4Ever.com</a></li>
+          <li><a href="https://twitter.com/hashtag/sauronforever" target="_blank" title="Follow Sauron on Twitter">Follow him also on Twitter</a></li>
+      </ul>
+      
+    </footer>
+    
+  </body>
+  
+</html>
